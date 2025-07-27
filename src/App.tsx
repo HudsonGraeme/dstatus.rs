@@ -69,7 +69,7 @@ function App() {
 
       <footer className="p-6 text-center text-gray-500 text-sm">
         <p>
-          Built with Rust •{" "}
+          ☕ Built with Rust •{" "}
           <a
             href="https://github.com/HudsonGraeme/dstatus-rs"
             className="text-white"
